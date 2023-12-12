@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SDL, C++ and Unity**
 
-<h3 align="left">Connect with me:mayankmssharma18@gmail.com</h3>
+<h3 align="left">Connect with me:***mayankmssharma18@gmail.com</h3>
 <p align="left">
 </p>
 
