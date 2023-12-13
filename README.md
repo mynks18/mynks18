@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynks18&label=Profile%20views&color=0e75b6&style=flat" alt="mynks18" /> </p>
 
-- 💻 I'm pursuing MSc in Software Engineering **University of Strathclyde, Glasgow, UK**
+- 💻 I'm pursuing MSc Advanced Software Engineering at **University of Strathclyde, Glasgow, UK**
 
 - 🌱 I’m currently learning **SDL, C++ and Unity**
 
