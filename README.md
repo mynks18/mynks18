@@ -9,5 +9,5 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  reach me at: mayankmssharma18@gmail.com
+  email: mayankmssharma18@gmail.com
 </p>
