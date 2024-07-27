@@ -11,7 +11,7 @@
 
 - 🖍️ I have working knowledge of Adobe Photoshop, Autodesk Maya and DAWs (FL Studio/Logic Pro X) (sound design and mixing). Knack for beautiful user interfaces and game art.
 
-- 🛠️ Open for collaboration with video games, softwares and research.
+- 🛠️ Open for collaboration in video games, apps and research.
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
