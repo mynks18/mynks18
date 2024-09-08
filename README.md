@@ -17,3 +17,5 @@
 <p align="left">
   email: mayankmssharma18@gmail.com
 </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mayankmssharma18?theme=light&font=M%20PLUS%201p&ext=heatmap)
